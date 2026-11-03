@@ -18,7 +18,8 @@ Leading initiatives in **industrial AI agent technology** (2026–) and **Korea�
 collaboration**, and developing AI talent through the national AI workforce program.
 
 ### 🔗 Find me
-- 🌐 Website: https://seungwooketi.github.io
+- 🌐 Website: https://seungwoo.datasec.work
+- My research center: https://www.datasec.work
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=8DEsYMsAAAAJ
 - 🆔 ORCID: https://orcid.org/0000-0002-6834-9255
 - 💼 LinkedIn: https://www.linkedin.com/in/seung-woo-kum-80907980
